@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp10.ControlsDemo4"
+             Title="ControlsDemo4">
+    <VerticalStackLayout>
+        <SwipeView>
+           <SwipeView.LeftItems>
+            <SwipeItems >
+                <SwipeItem BackgroundColor="LightGreen" Text="Favorite" Invoked="SwipeItem_Invoked"></SwipeItem>
+                <SwipeItem BackgroundColor="LightPink" Text="Delete"  Invoked="SwipeItem_Invoked"></SwipeItem>
+            </SwipeItems>
+           </SwipeView.LeftItems>  
+                <Label Text="Swipe Right 1" BackgroundColor="LightGray" HeightRequest="60" HorizontalOptions="FillAndExpand"
+                     HorizontalTextAlignment="Center" VerticalTextAlignment="Center"></Label>    
+        </SwipeView>
+    </VerticalStackLayout>
+</ContentPage>

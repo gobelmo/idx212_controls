@@ -1,0 +1,95 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiApp10
+build_property.ProjectDir = /Users/gobelmo/code/DX212/MauiApp10/MauiApp10/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/ControlsDemo1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.ControlsDemo1.xaml
+build_metadata.AdditionalFiles.TargetPath = ControlsDemo1.xaml
+build_metadata.AdditionalFiles.RelativePath = ControlsDemo1.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/ControlsDemo2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.ControlsDemo2.xaml
+build_metadata.AdditionalFiles.TargetPath = ControlsDemo2.xaml
+build_metadata.AdditionalFiles.RelativePath = ControlsDemo2.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/ControlsDemo3.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.ControlsDemo3.xaml
+build_metadata.AdditionalFiles.TargetPath = ControlsDemo3.xaml
+build_metadata.AdditionalFiles.RelativePath = ControlsDemo3.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/ControlsDemo4.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.ControlsDemo4.xaml
+build_metadata.AdditionalFiles.TargetPath = ControlsDemo4.xaml
+build_metadata.AdditionalFiles.RelativePath = ControlsDemo4.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/ControlsDemo5.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.ControlsDemo5.xaml
+build_metadata.AdditionalFiles.TargetPath = ControlsDemo5.xaml
+build_metadata.AdditionalFiles.RelativePath = ControlsDemo5.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/ControlsDemo6.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.ControlsDemo6.xaml
+build_metadata.AdditionalFiles.TargetPath = ControlsDemo6.xaml
+build_metadata.AdditionalFiles.RelativePath = ControlsDemo6.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/ControlsDemo7.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.ControlsDemo7.xaml
+build_metadata.AdditionalFiles.TargetPath = ControlsDemo7.xaml
+build_metadata.AdditionalFiles.RelativePath = ControlsDemo7.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/Resources/ControlsDemo7.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.Resources.ControlsDemo7.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/ControlsDemo7.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/ControlsDemo7.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/gobelmo/code/DX212/MauiApp10/MauiApp10/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp10.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml

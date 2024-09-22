@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp10.ControlsDemo2"
+             Title="ControlsDemo2">
+    <VerticalStackLayout>
+        <Label Text="Select a Grade:" FontSize="Medium" HorizontalOptions="Center" />
+        <RadioButton GroupName="Grades" Content="A" Value="A" CheckedChanged="RadioButton_CheckedChanged" />
+        <RadioButton GroupName="Grades" Content="B" Value="B" CheckedChanged="RadioButton_CheckedChanged"/>
+        <RadioButton GroupName="Grades" Content="C" Value="C" CheckedChanged="RadioButton_CheckedChanged"/>
+        <RadioButton GroupName="Grades" Content="D" Value="D" CheckedChanged="RadioButton_CheckedChanged"/>
+        <RadioButton GroupName="Grades" Content="F" Value="F" CheckedChanged="RadioButton_CheckedChanged"/>      
+        <!-- Label to display the selected value -->
+        <Label x:Name="SelectedGradeLabel" Text="Grade" FontSize="Medium" HorizontalOptions="Center" />
+
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp10.ControlsDemo6"
+             Title="ControlsDemo6">
+    <VerticalStackLayout>
+        <!-- Entry Example -->
+        <Label Text="Entry Example" />
+        <Entry x:Name="EntryControl" Placeholder="Enter text here" TextChanged="Entry_TextChanged" />
+        <Label x:Name="EntryValueLabel" Text="Entry Value: " />
+
+        <!-- Editor Example -->
+        <Label Text="Editor Example" />
+        <Editor x:Name="EditorControl" Placeholder="Enter multi-line text here" TextChanged="Editor_TextChanged" />
+        <Label x:Name="EditorValueLabel" Text="Editor Value: " />
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp10.ControlsDemo5"
+             Title="ControlsDemo5">
+    <VerticalStackLayout Padding="20">
+         <!-- CheckBox -->
+        <Label Text="CheckBox Example" />
+        <CheckBox x:Name="CheckBoxControl" CheckedChanged="CheckBox_CheckedChanged" />
+        <Label x:Name="CheckBoxValueLabel" Text="CheckBox is unchecked" />
+
+        <!-- Slider -->
+        <Label Text="Slider Example" />
+        <Slider x:Name="SliderControl" Minimum="0" Maximum="100" ValueChanged="Slider_ValueChanged" />
+        <Label x:Name="SliderValueLabel" Text="Slider Value: 0" />
+
+        <!-- Stepper -->
+        <Label Text="Stepper Example" />
+        <Stepper x:Name="StepperControl" Minimum="0" Maximum="10" Increment="1" ValueChanged="Stepper_ValueChanged" />
+        <Label x:Name="StepperValueLabel" Text="Stepper Value: 0" />
+
+        <!-- Switch -->
+        <Label Text="Switch Example" />
+        <Switch x:Name="SwitchControl" Toggled="Switch_Toggled" />
+        <Label x:Name="SwitchValueLabel" Text="Switch is off" />
+
+        <!-- DatePicker -->
+        <Label Text="DatePicker Example" />
+        <DatePicker x:Name="DatePickerControl" DateSelected="DatePicker_DateSelected" />
+        <Label x:Name="DatePickerValueLabel" Text="No date selected" />
+    </VerticalStackLayout>
+</ContentPage>
